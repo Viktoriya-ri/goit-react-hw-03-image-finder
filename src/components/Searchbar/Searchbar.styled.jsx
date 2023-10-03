@@ -30,7 +30,7 @@ export const Form = styled.form`
 `;
 export const Button = styled.button`
     display: inline-block;
-    width: 48px;
+    width: 56px;
     height: 48px;
     border: 0;
     opacity: 0.6;
