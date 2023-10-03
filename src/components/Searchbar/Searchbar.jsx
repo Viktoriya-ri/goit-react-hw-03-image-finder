@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { toast } from 'react-toastify';
 
-import { SearchbarHeader, Form, Button, Input } from './Searchbar.module';
+import { SearchbarHeader, Form, Button, Input } from './Searchbar.styled';
 
 export default class Searchbar extends Component {
   state = {
